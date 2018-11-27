@@ -1,2 +1,2 @@
 ## React CV
-A simple react app which presents a split screen view of both a 'code' (w/ syntax highlighting)  and 'design'('normal cv') view of a CV. 
+A simple react app which mimics sublime text with a split code/design view for presenting a CV.
